@@ -1,0 +1,6 @@
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = https://ceres-solver.googlesource.com/ceres-solver
+[submodule "loam_livox"]
+	path = loam_livox
+	url = https://github.com/rosblox/loam_livox.git
